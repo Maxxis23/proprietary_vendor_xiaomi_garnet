@@ -1176,7 +1176,7 @@ PRODUCT_PACKAGES += \
     libQnnHtpV69Stub \
     libQnnHtpV73CalculatorStub \
     libQnnHtpV73Stub \
-    libQnnSaver \
+    libQnnSaver_adsp \
     libQnnSystem \
     libQtiRilLoadable \
     libSNPE \
